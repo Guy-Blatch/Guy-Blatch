@@ -2,7 +2,7 @@
 
 # **Guy Blatch** 
 
-##### *Web Development Graduate*
+##### *Future Web Development Graduate*
 
 #### __I am working toward becoming a Web Development graduate with a focus on _JavaScript, React, CSS, HTML and MongoDB_.__
 
@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
 <br><br>
 - 🔭 I’m currently working on ... Passing this Bootcamp!
 - 🌱 I’m currently learning ... As much as i can! 
