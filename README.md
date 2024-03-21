@@ -4,7 +4,7 @@
 
 ##### *Web Development Graduate*
 
-#### __I am a Web Development graduate with a focus on _JavaScript, React, CSS, HTML and MongoDB_.__
+#### __I am working toward becoming a Web Development graduate with a focus on _JavaScript, React, CSS, HTML and MongoDB_.__
 
 ##### As a graduate of CoGrammars Web Development skills bootcamp (in partnership with the University of Nottingham Online and funded by the Department of education), I will gain proficiency in the following areas:
 ###### 1. Building dynamic, data-driven websites and applications
